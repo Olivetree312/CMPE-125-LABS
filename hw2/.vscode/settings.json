@@ -1,0 +1,10 @@
+{
+    "workbench.editorAssociations": {
+      "*.vcd": "vcdrom.editor"
+    },
+    "files.associations": {
+      "*.v": "verilog",
+      "*.sv": "systemverilog"
+    }
+  }
+  
